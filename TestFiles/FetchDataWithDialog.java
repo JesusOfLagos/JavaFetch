@@ -28,6 +28,6 @@ public class FetchDataWithDialog {
     }
 
     private static void fetchAndDisplayData(JTextArea textArea) {
-        // ... (previous code)
+      
     }
 }
